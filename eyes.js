@@ -7,4 +7,4 @@ document.onmousemove = () => {
     balls[i].style.top = y;
     balls[i].transfoorm = "translate(-" + x + ",-" + y + ")";
   }
-};
+}
